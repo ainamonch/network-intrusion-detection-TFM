@@ -1,4 +1,4 @@
-# Network Intrusion Detection with Machine Learning
+# Network Intrusion Detection with UNSW-NB15
 
 The main objective of this work is to develop a solution based on Machine Learning techniques for detecting suspicious activities that could compromise an organization's cybersecurity. The goal is to identify vulnerabilities and network attacks through the analysis of network traffic data.
 
